@@ -13,3 +13,13 @@
   <li><a href='https://www.udemy.com/certificate/UC-b5602279-daf7-4fdc-a56f-0866303b6a18/'>Computer Vision in Python for Beginners (Theory & Projects)</a></li>
   <li><a href='https://www.udemy.com/certificate/UC-aa8bb085-060d-4f68-a33e-833571aa1750/'>Natural Language Processing: NLP With Transformers in Python</a></li>
 </ul>
+
+--- 
+### Connect with me:
+<ul>
+  <li><a href="https://www.linkedin.com/in/safwan-halabi-582680258/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a></li>
+</ul>
+
+Alternatively, Email me at: safwanhalabi60@gmail.com
