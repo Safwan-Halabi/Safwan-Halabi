@@ -18,7 +18,7 @@
 ### Connect with me:
 <ul>
   <li><a href="https://www.linkedin.com/in/safwan-halabi-582680258/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.sstatic.net/gVE0j.png"" alt="linkedin"> LinkedIn
   </a></li>
 </ul>
 
